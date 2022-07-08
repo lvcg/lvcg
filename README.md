@@ -1,4 +1,4 @@
-# 💫 About Me: I'm Liv Software Engineer -100Devs
+# 💫 About Me:Hello I'm Liv, Software Engineer with 100Devs
 👩‍💻I would love to collaborate with you on any project.<br><br>🤭I'm always looking for help with projects. <br><br>💯Currently, I'm learning  react, mongodb, SQL and express.<br><br>💭Ask me Anything, lol <br><br>🎁I love to travel, shopping, movies and cooking.
 
 
