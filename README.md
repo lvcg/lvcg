@@ -5,7 +5,7 @@
 - 🚧 I'm currently working on a few projects for my portfolio.  
   
 
-- 🌱 I’m currently learning SQL, React,AWS,Azure and Web3 Technologies.  
+- 🌱 I’m currently learning SQL,PYTHON,Linux,Devops. React,AWS,Azure and Web3 Technologies.  
   
 
 - ❓ Ask me about anything related to Business, Real Estate, or Ideas.  
