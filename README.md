@@ -1,4 +1,4 @@
-### <div align="center">Greetings, I'm Liv Robinson. I'm a freelance software engineer with experience in developing and maintaining web applications. My main focus is to deliver high-quality, scalable, and user-friendly solutions for my clients.✨
+### <div align="center">Greetings, I'm Liv. I'm a freelance software engineer with experience in developing and maintaining web applications. My main focus is to deliver high-quality, scalable, and user-friendly solutions for my clients.✨
 </div>  
   
 
