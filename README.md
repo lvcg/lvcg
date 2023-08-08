@@ -4,14 +4,13 @@
 
 - 🚧 I'm currently working on a few projects for my portfolio.  
   
-
 - 🌱 I’m currently learning SQL,PYTHON,Linux,Devops. React,AWS,Azure and Web3 Technologies.  
   
-
 - ❓ Ask me about anything related to Business, Real Estate, or Ideas.  
   
-
-- ⚡ Fun fact: I love to network, meet new people and collaborate on various projects.  
+- ⚡ Fun fact: I love to network, meet new people and collaborate on various projects.
+  
+- 🎨 Experienced with designing in Canva.
   
 
 <a href="https://github.com/lvcg" target="_blank">
@@ -32,9 +31,6 @@
   
 
 
-
-### My Portfolio  
-https://lvconsulting.online/  
   
 
 <br/>  
